@@ -323,7 +323,6 @@ PRODUCT_COPY_FILES += \
         vendor/htc/a3/proprietary/vendor/lib/libmmqjpeg_codec.so:/system/vendor/lib/libmmqjpeg_codec.so \
         vendor/htc/a3/proprietary/vendor/lib/libqomx_jpegenc.so:/system/vendor/lib/libqomx_jpegenc.so \
         vendor/htc/a3/proprietary/vendor/lib/libqomx_jpegdec.so:/system/vendor/lib/libqomx_jpegdec.so \
-        vendor/htc/a3/proprietary/lib/hw/nfc_nci.memul.so:/system/lib/hw/nfc_nci.memul.so \
         vendor/htc/a3/proprietary/vendor/firmware/libpn547_fw.so:/system/vendor/firmware/libpn547_fw.so \
         vendor/htc/a3/proprietary/bin/charging:/system/bin/charging \
         vendor/htc/a3/proprietary/bin/mpdecision:/system/bin/mpdecision \
