@@ -294,6 +294,9 @@ PRODUCT_COPY_FILES += \
         vendor/htc/a3/proprietary/vendor/lib/egl/eglsubAndroid.so:/system/vendor/lib/egl/eglsubAndroid.so \
         vendor/htc/a3/proprietary/vendor/lib/egl/libq3dtools_adreno.so:/system/vendor/lib/egl/libq3dtools_adreno.so \
         vendor/htc/a3/proprietary/vendor/lib/egl/libGLESv1_CM_adreno.so:/system/vendor/lib/egl/libGLESv1_CM_adreno.so \
+        vendor/htc/a3/proprietary/vendor/lib/soundfx/libqcbassboost.so:/system/vendor/lib/soundfx/libqcbassboost.so \
+        vendor/htc/a3/proprietary/vendor/lib/soundfx/libqcreverb.so:/system/vendor/lib/soundfx/libqcreverb.so \
+        vendor/htc/a3/proprietary/vendor/lib/soundfx/libqcvirt.so:/system/vendor/lib/soundfx/libqcvirt.so \
         vendor/htc/a3/proprietary/vendor/lib/libadreno_utils.so:/system/vendor/lib/libadreno_utils.so \
         vendor/htc/a3/proprietary/vendor/lib/libC2D2.so:/system/vendor/lib/libC2D2.so \
         vendor/htc/a3/proprietary/vendor/lib/libCB.so:/system/vendor/lib/libCB.so \
