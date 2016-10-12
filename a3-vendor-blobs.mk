@@ -86,6 +86,8 @@ PRODUCT_COPY_FILES += \
         vendor/htc/a3/proprietary/vendor/lib/libadiertac.so:/system/vendor/lib/libadiertac.so \
         vendor/htc/a3/proprietary/vendor/lib/libaudcal.so:/system/vendor/lib/libaudcal.so \
         vendor/htc/a3/proprietary/bin/hci_qcomm_init:/system/bin/hci_qcomm_init \
+        vendor/htc/a3/proprietary/bin/adsprpcd:/system/bin/adsprpcd \
+        vendor/htc/a3/proprietary/bin/qseecomd:/system/bin/qseecomd \
         vendor/htc/a3/proprietary/bin/mm-qcamera-daemon:/system/bin/mm-qcamera-daemon \
         vendor/htc/a3/proprietary/etc/firmware/cpp_firmware_v1_1_1.fw:/system/etc/firmware/cpp_firmware_v1_1_1.fw \
         vendor/htc/a3/proprietary/etc/firmware/cpp_firmware_v1_1_6.fw:/system/etc/firmware/cpp_firmware_v1_1_6.fw \
@@ -356,6 +358,7 @@ PRODUCT_COPY_FILES += \
         vendor/htc/a3/proprietary/vendor/lib/libqc-opt.so:/system/vendor/lib/libqc-opt.so \
         vendor/htc/a3/proprietary/bin/akmd:/system/bin/akmd \
         vendor/htc/a3/proprietary/lib/hw/sensors.msm8226.so:/system/lib/hw/sensors.msm8226.so \
+        vendor/htc/a3/proprietary/lib/hw/camera.msm8226.so:/system/lib/hw/camera.msm8226.so \
         vendor/htc/a3/proprietary/vendor/lib/sensors.msm8226.so:/system/vendor/lib/sensors.msm8226.so \
         vendor/htc/a3/proprietary/bin/time_daemon:/system/bin/time_daemon \
         vendor/htc/a3/proprietary/vendor/lib/libtime_genoff.so:/system/vendor/lib/libtime_genoff.so \
