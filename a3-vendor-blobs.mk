@@ -335,6 +335,7 @@ PRODUCT_COPY_FILES += \
         vendor/htc/a3/proprietary/vendor/lib/libthermalclient.so:/system/vendor/lib/libthermalclient.so \
         vendor/htc/a3/proprietary/bin/rmt_storage:/system/bin/rmt_storage \
         vendor/htc/a3/proprietary/bin/qmuxd:/system/bin/qmuxd \
+        vendor/htc/a3/proprietary/lib/libril.so:/system/lib/libril.so \
         vendor/htc/a3/proprietary/vendor/lib/libdiag.so:/system/vendor/lib/libdiag.so \
         vendor/htc/a3/proprietary/vendor/lib/libdsi_netctrl.so:/system/vendor/lib/libdsi_netctrl.so \
         vendor/htc/a3/proprietary/vendor/lib/libdsnetutils.so:/system/vendor/lib/libdsnetutils.so \
