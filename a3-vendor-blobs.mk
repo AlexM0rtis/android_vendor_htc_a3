@@ -270,6 +270,7 @@ PRODUCT_COPY_FILES += \
         vendor/htc/a3/proprietary/vendor/lib/libQSEEComAPI.so:/system/vendor/lib/libQSEEComAPI.so \
         vendor/htc/a3/proprietary/vendor/lib/libwvm.so:/system/vendor/lib/libwvm.so \
         vendor/htc/a3/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:/system/vendor/lib/libWVStreamControlAPI_L3.so \
+        vendor/htc/a3/proprietary/bin/gsiff_daemon:system/bin/gsiff_daemon \
         vendor/htc/a3/proprietary/lib/hw/gps.default.so:/system/lib/hw/gps.default.so \
         vendor/htc/a3/proprietary/vendor/lib/libloc_core.so:/system/vendor/lib/libloc_core.so \
         vendor/htc/a3/proprietary/vendor/lib/libloc_eng.so:/system/vendor/lib/libloc_eng.so \
