@@ -272,11 +272,8 @@ PRODUCT_COPY_FILES += \
         vendor/htc/a3/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:/system/vendor/lib/libWVStreamControlAPI_L3.so \
         vendor/htc/a3/proprietary/bin/gsiff_daemon:system/bin/gsiff_daemon \
         vendor/htc/a3/proprietary/lib/hw/gps.default.so:/system/lib/hw/gps.default.so \
-        vendor/htc/a3/proprietary/vendor/lib/libloc_core.so:/system/vendor/lib/libloc_core.so \
-        vendor/htc/a3/proprietary/vendor/lib/libloc_eng.so:/system/vendor/lib/libloc_eng.so \
         vendor/htc/a3/proprietary/vendor/lib/libloc_ds_api.so:/system/vendor/lib/libloc_ds_api.so \
         vendor/htc/a3/proprietary/vendor/lib/libloc_api_v02.so:/system/vendor/lib/libloc_api_v02.so \
-        vendor/htc/a3/proprietary/vendor/lib/libgps.utils.so:/system/vendor/lib/libgps.utils.so \
         vendor/htc/a3/proprietary/vendor/lib/libgeofence.so:/system/vendor/lib/libgeofence.so \
         vendor/htc/a3/proprietary/vendor/lib/libizat_core.so:/system/vendor/lib/libizat_core.so \
         vendor/htc/a3/proprietary/vendor/lib/liblbs_core.so:/system/vendor/lib/liblbs_core.so \
